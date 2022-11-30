@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\bin\Debug\net6.0\Book Library.exe
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\bin\Debug\net6.0\Book Library.deps.json
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\bin\Debug\net6.0\Book Library.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\bin\Debug\net6.0\Book Library.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\bin\Debug\net6.0\Book Library.pdb
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\refint\Book Library.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.pdb
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\Book Library.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Book Library\obj\Debug\net6.0\ref\Book Library.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\bin\Debug\net6.0\Count Working Days.exe
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\bin\Debug\net6.0\Count Working Days.deps.json
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\bin\Debug\net6.0\Count Working Days.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\bin\Debug\net6.0\Count Working Days.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\bin\Debug\net6.0\Count Working Days.pdb
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\refint\Count Working Days.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.pdb
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\Count Working Days.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Objects and Classes\Count Working Days\obj\Debug\net6.0\ref\Count Working Days.dll

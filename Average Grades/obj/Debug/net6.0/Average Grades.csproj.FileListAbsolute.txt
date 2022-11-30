@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\bin\Debug\net6.0\Average Grades.exe
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\bin\Debug\net6.0\Average Grades.deps.json
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\bin\Debug\net6.0\Average Grades.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\bin\Debug\net6.0\Average Grades.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\bin\Debug\net6.0\Average Grades.pdb
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\refint\Average Grades.dll
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.pdb
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\Average Grades.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\Objects and Classes\Average Grades\obj\Debug\net6.0\ref\Average Grades.dll
